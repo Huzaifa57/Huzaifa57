@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my FYP 
-🌱 I’m currently learning React.js
-📫 How to reach me: shuzaifa222@gmail.com 
-⚡ Fun fact: Drinking coffee can prevent depression. ...
+Here are some things that may tell u about me:
+
+- 🔭 I’m currently working on my FYP 
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me: shuzaifa222@gmail.com 
+- ⚡ Fun fact: Drinking coffee can prevent depression. ...
+
 
 <!--
 **Huzaifa57/Huzaifa57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
